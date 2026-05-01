@@ -1,6 +1,6 @@
 # 🚀 Team Task Manager
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/team-task-manager)
+![GitHub repo size](https://github.com/TusharJangid18/team-task-manager/tree/main)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/team-task-manager?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/team-task-manager?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
