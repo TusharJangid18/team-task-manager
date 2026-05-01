@@ -340,7 +340,7 @@ This project is licensed under the MIT License.
 ## Frontend
 
 ```bash
-https://your-frontend-url.vercel.app
+https://team-task-manager-dyne0fiwe-tusharjangid18s-projects.vercel.app
 ```
 
 ## Backend
